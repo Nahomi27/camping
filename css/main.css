@@ -24,6 +24,7 @@ body{
     text-align: center;
     width: 100%;
 }
+
 /*modificar el nav de la pagina*/
 .top-nav{
     display: flex;
@@ -33,6 +34,7 @@ body{
     margin-bottom: 8rem;
 }
 /*modifica la lista del inicio */
+
 .nav-list{
     display: flex;
     align-items: center;
